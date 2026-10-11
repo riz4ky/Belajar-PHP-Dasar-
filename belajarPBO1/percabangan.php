@@ -8,7 +8,7 @@
 </head>
 
 <body>
-  <h1>PERULANGAN DENGAN MENGGUNAKAN PHP</h1>
+  <h1>PERCABANGAN DENGAN MENGGUNAKAN PHP</h1>
   <p>Berikut ini contoh percabangan menentukan nilai true or false</p>
   <?php 
     $x = 90; 
